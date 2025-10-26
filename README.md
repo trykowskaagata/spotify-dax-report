@@ -43,8 +43,9 @@ Listening Overview: general engagement and time distribution
 Behavior Analysis: detailed view of listening patterns across days and hours
 Year-over-Year Comparison: long-term trends and artist loyalty metrics
 The dashboard is designed for personal insight but also demonstrates my technical and analytical skills in Power BI and DAX.
-
-
+![Spotify Dashboard Overview](ListeningOverview.png)
+![Spotify Dashboard Overview](ListeningPatterns.png)
+![Spotify Dashboard Overview](YoY.png)
 For a more detailed explanation of the dataset structure and fields:
 https://support.spotify.com/us/article/understanding-your-data/
 
